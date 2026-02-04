@@ -31,7 +31,7 @@
 	<scm>
 		<url>https://github.com/pitest/pitest-history-plugin</url>
 		<!-- must use https url rather than git one for tagging to work from github actions -->
-		<developerConnection>scm:git:https://github.com/pitest/pitest-history-plugin.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/pitest/pitest-history.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
